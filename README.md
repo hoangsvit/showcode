@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/stevebauman/showcode/blob/master/static/logo.svg" width="100">
+  <img src="https://github.com/hoangsvit/showcode/blob/master/static/logo.svg" width="100">
 </p>
 
 <p align="center">
@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stevebauman/showcode/actions">
-    <img src="https://github.com/stevebauman/showcode/actions/workflows/run-tests.yml/badge.svg">
-  </a>
-
-  <a href="https://app.netlify.com/sites/festive-hermann-8f687a/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/d70b101b-8b59-4615-ade1-23c055a6133b/deploy-status">
+  <a href="https://github.com/hoangsvit/showcode/actions">
+    <img src="https://github.com/hoangsvit/showcode/actions/workflows/nuxtjs.yml/badge.svg">
   </a>
 </p>
 
